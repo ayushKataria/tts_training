@@ -29,4 +29,5 @@ MANIFEST
 .env.*
 
 # Training data folder except readme in training data
-training_data
+training_data/*
+!training_data/README
